@@ -22,7 +22,7 @@
     "url": "https://fserver.serv00.net",
     "icon": "https://icons.duckduckgo.com/ip3/fserver.serv00.net.ico",
     "slug": "wikiserv00",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -34,6 +34,7 @@
     "timeMonth": 712,
     "timeYear": 679,
     "dailyMinutesDown": {
+      "2024-12-08": 0,
       "2024-09-22": 25
     }
   },
