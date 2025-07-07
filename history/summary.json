@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 108,
-    "timeDay": 174,
-    "timeWeek": 118,
+    "timeDay": 167,
+    "timeWeek": 110,
     "timeMonth": 102,
     "timeYear": 108,
-    "dailyMinutesDown": {
-      "2025-07-06": 9
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Wikiserv00",
@@ -31,9 +29,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 691,
-    "timeDay": 540,
-    "timeWeek": 664,
-    "timeMonth": 708,
+    "timeDay": 699,
+    "timeWeek": 641,
+    "timeMonth": 702,
     "timeYear": 691,
     "dailyMinutesDown": {
       "2025-06-26": 17,
@@ -53,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 320,
-    "timeDay": 320,
-    "timeWeek": 350,
-    "timeMonth": 335,
-    "timeYear": 320,
+    "time": 321,
+    "timeDay": 464,
+    "timeWeek": 365,
+    "timeMonth": 347,
+    "timeYear": 321,
     "dailyMinutesDown": {
       "2025-05-09": 32
     }
