@@ -27,16 +27,16 @@
     "url": "https://fserver.serv00.net",
     "icon": "https://icons.duckduckgo.com/ip3/fserver.serv00.net.ico",
     "slug": "wikiserv00",
-    "status": "down",
-    "uptime": "99.84%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "97.07%",
-    "uptimeMonth": "99.06%",
-    "uptimeYear": "99.73%",
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "79.35%",
+    "uptimeWeek": "94.12%",
+    "uptimeMonth": "98.38%",
+    "uptimeYear": "99.68%",
     "time": 724,
-    "timeDay": 723,
-    "timeWeek": 640,
-    "timeMonth": 710,
+    "timeDay": 765,
+    "timeWeek": 654,
+    "timeMonth": 713,
     "timeYear": 737,
     "dailyMinutesDown": {
       "2025-06-26": 17,
@@ -69,7 +69,7 @@
       "2026-06-13": 143,
       "2026-06-12": 68,
       "2026-06-14": 84,
-      "2026-06-16": 1
+      "2026-06-16": 297
     }
   },
   {
